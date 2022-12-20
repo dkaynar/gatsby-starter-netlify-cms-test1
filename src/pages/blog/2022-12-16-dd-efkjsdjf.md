@@ -14,8 +14,8 @@ tags:
 > s﻿fjsdjfqosdjisdfdsfksdlkfpsdlk **dsqf** qsdfsdfdsq qsdfsdfqsd
 
 * d﻿dslfkùqsldfsdl
-<<<<<<< HEAD
-<<<<<<< HEAD
+  <<<<<<< HEAD
+  <<<<<<< HEAD
 * l﻿dskfùmqls
 
 s﻿dqqsdsdfsdfqsdqfsdf
@@ -26,10 +26,4 @@ q﻿fsdfqsdfqdsfsdf
 
 q﻿sdfdsfsdfdsqf
 
-
-=======
-* l﻿dskfùmqls
->>>>>>> parent of dfdea01 (Update Blog “2022-12-16-dd-efkjsdjf”)
-=======
-* l﻿dskfùmqls
->>>>>>> parent of dfdea01 (Update Blog “2022-12-16-dd-efkjsdjf”)
+\=======
