@@ -18,8 +18,6 @@ tags:
 <<<<<<< HEAD
 * l﻿dskfùmqls
 
-![](/img/products-grid2.jpg)
-
 s﻿dqqsdsdfsdfqsdqfsdf
 
 q﻿dsfdsfsdfsdf
@@ -29,10 +27,6 @@ q﻿fsdfqsdfqdsfsdf
 q﻿sdfdsfsdfdsqf
 
 
-
-
-
-a﻿lalalalala
 =======
 * l﻿dskfùmqls
 >>>>>>> parent of dfdea01 (Update Blog “2022-12-16-dd-efkjsdjf”)
